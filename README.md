@@ -1,8 +1,6 @@
 # E-commerce-Customer-Data-Preparation-for-Marketing-Intelligence
 This project prepares raw e-commerce customer data for a Customer Loyalty Program by cleaning, standardizing, and validating customer profiles using Python. The resulting dataset is structured to support customer segmentation, KPI generation, and data-driven marketing decisions.
 
-# E-commerce Customer Data Preparation for Marketing Intelligence
-
 ## Project Overview
 This project supports the preparation of customer data for the launch of a **Customer Loyalty Program** at an e-commerce company (Store 1).  
 The objective is to ensure that customer information is **clean, consistent, and ready for analysis**, enabling reliable insights and data-driven marketing decisions.
